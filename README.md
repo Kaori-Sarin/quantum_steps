@@ -14,4 +14,4 @@ This repository is dedicated to just learning and experimenting with qiskit.
 
 ## Contact me:
 Email    : kaori.sarin@gmail.com<br>
-Linkedin : [https://www.linkedin.com/in/saurabh-singh-413724184/]
+Linkedin : https://www.linkedin.com/in/saurabh-singh-413724184/
