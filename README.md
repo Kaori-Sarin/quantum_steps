@@ -5,7 +5,7 @@ Hi guys my name is Saurabh and this is my first qiskit based repository. I was i
 This repository is dedicated to just learning and experimenting with qiskit.
 
 ## Contents (as of September 2020)
-1. Binary addition using Half-Adder quantum circuit.
+1. MNIST Clasification using VQC
 2. TBD
 3. TBD
 4. TBD
